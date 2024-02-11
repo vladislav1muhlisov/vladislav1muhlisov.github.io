@@ -4,3 +4,14 @@
 
 layout: home
 ---
+
+(My photo)
+
+Hi. I'm Vlad
+
+I am game developer with 5 years of experience in Unity and C#. I have experience in:
+- building game architecture
+- mentoring and leading teams
+- creating and maintaining CI/CD pipelines
+- creating and maintaining game development tools
+- writing technical documentation

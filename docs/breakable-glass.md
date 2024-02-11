@@ -20,7 +20,6 @@ public class Program
 }
 ```
 
-
 ```mermaid
 flowchart TD
     A[Square Rect] -- Link text --> B((Circle))
@@ -28,7 +27,6 @@ flowchart TD
     B --> D{Rhombus}
     C --> D
 ```
-
 
 ```stl
 solid cube_corner

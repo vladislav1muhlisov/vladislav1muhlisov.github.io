@@ -28,7 +28,7 @@ twitter_username: ICoder666
 github_username:  vladislav1muhlisov
 
 # Build settings
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
 

@@ -39,7 +39,7 @@ permalink: /projects
 
 ## Personal
 
-### [Breakable glass and objects system](breakable-glass-simple)
+### [Breakable glass and objects system]({{ site.baseurl }}/projects/breakable-glass-simple)
 
 <img alt="breakable-glass-simple" src="{{ '/images/breakable-glass-simple.jpg' | prepend: site.baseurl }}" width="512"/>
 
@@ -47,7 +47,7 @@ permalink: /projects
 
 ---
 
-### [Breakable Glass: Advanced solution](breakable-glass-advanced)
+### [Breakable Glass: Advanced solution]({{ site.baseurl }}/breakable-glass-advanced)
 
 **Pet project**
 

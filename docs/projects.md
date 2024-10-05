@@ -47,7 +47,7 @@ permalink: /projects
 
 ---
 
-### [Breakable Glass: Advanced solution]({{ site.baseurl }}/breakable-glass-advanced)
+### [Breakable Glass: Advanced solution]({{ site.baseurl }}/projects/breakable-glass-advanced)
 
 **Pet project**
 

@@ -47,12 +47,17 @@ permalink: /projects
 
 ---
 
-### [Breakable Glass: Advanced solution]({{ site.baseurl }}/projects/breakable-glass-advanced)
+### [BOSS]({{ site.baseurl }}/projects/boss)
 
 **Pet project**
 
 ---
 
 ### Brick 3D Madness
+
+**Pet project**
+
+
+### Wordenberg
 
 **Pet project**

@@ -1,19 +1,4 @@
-﻿---
-layout: page
-title: "BOSS (In development, not released yet)"
-permalink: /projects/breakable-glass-advanced
----
-
 <link rel="stylesheet" href="{{ '/assets/css/stylesNew.css' | prepend: site.baseurl }}">
-
-
-# Breakable Objects Slicing System
-
-## Summary
-
-Procedural mesh fraction system based on iterative mesh slicing which can be used as a Destruction System or as a
-Slicer
-
 
 ## General Features
 
@@ -31,7 +16,7 @@ Slicer
   {% endfor %}
 </div>
 
-## Slicer Features
+## Slice Features
 
 <div class="features-grid">
   {% for feature in site.data.features_slicer %}

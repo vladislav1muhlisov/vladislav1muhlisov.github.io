@@ -4,7 +4,7 @@
     - You can achieve a lot with just a few clicks
 
 - title: Destruction preview
-  image: /assets/images/boss/preview_gif_mega.gif
+  image: /assets/images/boss/features/preview_gif_mega.gif
   description:
     -
 
@@ -34,12 +34,12 @@
     - The Boss will properly handle slice islands
 
 - title: Inner surface generation (beta)
-  image: /assets/images/boss/inner_surface_1.jpg
+  image: /assets/images/boss/features/inner_surface_1.jpg
   description:
     -
 
 - title: Multiple materials and submeshes
-  image: /assets/images/boss/multiple_materials_1.jpg
+  image: /assets/images/boss/features/multiple_materials_1.jpg
   description:
     -
 

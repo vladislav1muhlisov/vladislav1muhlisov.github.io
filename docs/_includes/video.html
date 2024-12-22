@@ -1,0 +1,10 @@
+{% if include.youtube %}
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.youtube }}" frameborder="0" allowfullscreen></iframe>
+</div>
+{% elsif include.src %}
+<video width="640" height="360" controls>
+    <source src="{{ include.src }}" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+{% endif %}

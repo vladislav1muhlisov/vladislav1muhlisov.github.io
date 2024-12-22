@@ -34,6 +34,7 @@ header_pages:
 theme: minima
 plugins:
   - jekyll-feed
+permalink: pretty
 
 # Exclude from processing.
 # The following items will not be processed, by default.

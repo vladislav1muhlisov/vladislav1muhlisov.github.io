@@ -1,0 +1,10 @@
+﻿docs:
+  - title: Main features
+    url: /docs/getting-started/
+  - title: Configuration
+    url: /docs/configuration/
+    children:
+      - title: Basic Configuration
+        url: /docs/configuration/basic/
+      - title: Advanced Configuration
+        url: /docs/configuration/advanced/

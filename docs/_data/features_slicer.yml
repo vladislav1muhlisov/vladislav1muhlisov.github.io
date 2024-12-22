@@ -1,25 +1,25 @@
 - title: Non-convex surface triangulation
-  image: /assets/images/boss/non_convex_polygon_2.jpg
+  image: /assets/images/boss/features/non_convex_polygon_2.jpg
   description:
     -
 
 - title: Side holes tolerance
-  image: /assets/images/boss/gap_tolerance_2.jpg
+  image: /assets/images/boss/features/gap_tolerance_2.jpg
   description:
     -
 
 - title: Holes in the cut section
-  image: /assets/images/boss/hole_support_2.jpg
+  image: /assets/images/boss/features/hole_support_2.jpg
   description:
     - If there are holes in the cut section, the system will properly handle them
 
 - title: Slice islands
-  image: /assets/images/boss/islands_support_2.jpg
+  image: /assets/images/boss/features/islands_support_2.jpg
   description:
       - The Boss will properly handle slice islands
 
 - title: Mesh islands
-  image: /assets/images/boss/mesh_islands_support_2.jpg
+  image: /assets/images/boss/features/mesh_islands_support_2.jpg
   description:
       - The Boss will properly handle mesh islands
 

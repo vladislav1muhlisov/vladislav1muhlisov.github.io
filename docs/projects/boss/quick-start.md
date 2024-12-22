@@ -11,9 +11,10 @@
 
 ## Demo scene
 
-In case you would like to see the result even faster, you could use the `Demo` scene.
+You could use the `Demo` scene.
 
-Just open it from the `` folder. There you will find a simple scene with a placeholder for objects and a camera.
+Just open it from the `Assets/CyberRevolution/BreakableObjectsSystem/Examples/Demo` folder. There you will find a simple
+scene with a placeholder for objects.
 You can put your own objects in the placeholder to see how they break or simply press the `Play` button to see the
 default objects breaking.
 

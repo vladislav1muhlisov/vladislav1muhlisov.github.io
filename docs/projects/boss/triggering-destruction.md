@@ -1,18 +1,36 @@
 # How to trigger destruction
 
-TODO: Add intro
+There are two main ways to trigger the destruction of an object with the Breaker component
 
 ## 1. Using components
 
-TODO: Add screenshots
+### Use the `Break By Click Collider`
 
-There are two ways out of the box:
-1. Use the `Break By Click Collider`
-2. Use the `Break By Collision Collider`
+![break-by-click-collider.png](../../assets/images/boss/triggering-destruction/break-by-click-collider.png)
+
+Your object will be destroyed when you click on it by mouse or tap on it by touch
+
+### Use the `Break By Collision Collider`
+
+![break-by-click-collider.png](../../assets/images/boss/triggering-destruction/break-by-click-collider.png)
+
+Your object will be destroyed when it collides with another object. Please ensure that one of the objects has a
+rigidbody attached
 
 ## 2. From code
 
-Call the `Breaker.Break()` method to trigger the destruction from code
+Call the `Breaker.Break()` method to trigger the destruction from code. For example:
 
-TODO: Add examples
-TODO: Add more details
+```csharp
+public class Player : MonoBehaviour
+{
+    private void OnCollisionEnter(Collision other)
+    {
+        Breaker breaker = other.gameObject.GetComponent<Breaker>();
+        if (breaker != null)
+        {
+            breaker.Break();
+        }
+    }
+}
+```
